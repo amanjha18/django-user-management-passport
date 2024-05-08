@@ -1,1 +1,1 @@
-# django-user-management-passport
+# passport-auth
